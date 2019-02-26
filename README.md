@@ -1,2 +1,5 @@
 # hello-world
-a repository for soof 
+soof says hi
+
+hello everybody I'm soof and I'm trying :D 
+this is me typing in the screen hihi 
